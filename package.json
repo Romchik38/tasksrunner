@@ -1,0 +1,28 @@
+{
+  "name": "tasksrunner",
+  "version": "1.0.0",
+  "description": "Run your task nice and gracefull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romchik38/tasksrunner.git"
+  },
+  "keywords": [
+    "task",
+    "tasks",
+    "run",
+    "runner",
+    "inreval",
+    "scheduller",
+    "jobs"
+  ],
+  "author": "Romchik38",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Romchik38/tasksrunner/issues"
+  },
+  "homepage": "https://github.com/Romchik38/tasksrunner#readme"
+}
